@@ -2,3 +2,4 @@
 строка №2 коммит №2 с localhost-a
 строка №3 коммит №3 с github.com
 строка №4 коммит №4 с localhost-a
+строка №5 коммит №5 с localhost-a
